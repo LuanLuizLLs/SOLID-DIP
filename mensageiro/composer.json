@@ -1,0 +1,15 @@
+{
+    "name": "luanl/mensageiro",
+    "autoload": {
+        "psr-4": {
+            "Mensageiro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuanLuizLLs",
+            "email": "luanluiz.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}

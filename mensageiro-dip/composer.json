@@ -1,0 +1,15 @@
+{
+    "name": "luanl/mensageiro-dip",
+    "autoload": {
+        "psr-4": {
+            "MensageiroDip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuanLuizLLs",
+            "email": "luanluiz.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}

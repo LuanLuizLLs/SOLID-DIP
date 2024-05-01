@@ -1,8 +1,8 @@
 <?php
 
-namespace MensageiroDip;
+namespace YesDIP;
 
-use MensageiroDip\interfaces\IMensagemToken;
+use YesDIP\interfaces\IMensagemToken;
 
 class WhatsApp implements IMensagemToken {
 

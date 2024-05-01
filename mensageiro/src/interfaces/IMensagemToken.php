@@ -1,6 +1,6 @@
 <?php
 
-namespace Mensageiro\interfaces;
+namespace NoDIP\interfaces;
 
 interface IMensagemToken {
 

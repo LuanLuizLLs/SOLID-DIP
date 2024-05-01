@@ -1,6 +1,6 @@
 <?php
 
-namespace Mensageiro;
+namespace NoDIP;
 
 class Mensageiro {
 

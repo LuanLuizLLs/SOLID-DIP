@@ -2,7 +2,7 @@
     "name": "luanl/mensageiro-dip",
     "autoload": {
         "psr-4": {
-            "MensageiroDip\\": "src/"
+            "YesDIP\\": "src/"
         }
     },
     "authors": [

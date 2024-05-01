@@ -1,6 +1,6 @@
 <?php
 
-use Mensageiro\Mensageiro;
+use NoDIP\Mensageiro;
 
 require __DIR__.'/vendor/autoload.php';
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Mensageiro;
+namespace NoDIP;
 
-use Mensageiro\interfaces\IMensagemToken;
+use NoDIP\interfaces\IMensagemToken;
 
 class Email implements IMensagemToken {
 

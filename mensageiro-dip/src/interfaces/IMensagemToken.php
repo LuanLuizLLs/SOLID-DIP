@@ -1,6 +1,6 @@
 <?php
 
-namespace MensageiroDip\interfaces;
+namespace YesDIP\interfaces;
 
 interface IMensagemToken {
 

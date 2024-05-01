@@ -2,7 +2,7 @@
     "name": "luanl/mensageiro",
     "autoload": {
         "psr-4": {
-            "Mensageiro\\": "src/"
+            "NoDIP\\": "src/"
         }
     },
     "authors": [

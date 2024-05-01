@@ -1,9 +1,9 @@
 <?php
 
-use MensageiroDip\Email;
-use MensageiroDip\Mensageiro;
-use MensageiroDip\Sms;
-use MensageiroDip\WhatsApp;
+use YesDIP\Email;
+use YesDIP\Mensageiro;
+use YesDIP\Sms;
+use YesDIP\WhatsApp;
 
 require __DIR__.'/vendor/autoload.php';
 
